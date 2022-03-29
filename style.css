@@ -184,6 +184,10 @@ body{
     height: 220px;
     width: 220px;
 }
+#size-2{
+    height: 60px;
+    width: 100px;
+}
 .text-1{
     font-family: "poppins";
     font-size: 14px;
@@ -204,4 +208,15 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+}
+#brand{
+    padding-top: 50px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.space-1{
+    margin-right:5%;
 }
